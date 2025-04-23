@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-04-15 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I am presenting 2 papers at ICLR 2025 in Singapore: Language Models are Advanced Anonymizers
+ and MathConstruct: Challenging LLM Reasoning with Constructive Proofs.

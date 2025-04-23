@@ -2,17 +2,15 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Mislav Balunovic
     - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: 15th August 1995
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
+      institution: ETH Zurich, Switzerland
       year: 1905
       description:
         - Description 1.
