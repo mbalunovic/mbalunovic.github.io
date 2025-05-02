@@ -384,16 +384,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-we-released-matharena-ai-a-website-for-evaluating-llms-on-latest-math-competitions",
           title: 'We released matharena.ai, a website for evaluating LLMs on latest math competitions.',
           description: "",
           section: "News",},{id: "news-i-am-presenting-2-papers-at-iclr-2025-in-singapore-language-models-are-advanced-anonymizers-and-mathconstruct-challenging-llm-reasoning-with-constructive-proofs",
           title: 'I am presenting 2 papers at ICLR 2025 in Singapore: Language Models are...',
+          description: "",
+          section: "News",},{id: "news-mathconstruct-challenging-llm-reasoning-with-constructive-proofs-has-been-accepted-to-icml-2025",
+          title: 'MathConstruct: Challenging LLM Reasoning with Constructive Proofs has been accepted to ICML 2025!...',
           description: "",
           section: "News",},{id: "projects-matharena",
           title: 'MathArena',
